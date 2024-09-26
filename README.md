@@ -1,5 +1,5 @@
 git # LWGit
-Bogdana Aniskovich 
+Olga Tychina
 273601
 <<<<<<< HEAD
 
